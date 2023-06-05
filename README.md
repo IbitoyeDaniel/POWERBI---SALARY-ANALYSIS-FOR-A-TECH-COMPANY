@@ -31,9 +31,31 @@ Power query was used to clean and transformed thi data. some irrelevant columns 
 5. less than or equals 25 years = Decision Making Board
 
 see pictures below
-Dirty dataset     |     Transformed Datset
+Dirty dataset     |     Transformed Datset with Power query
 :-----------------:|:-----------------:
-![](EXCEL.GITHUB.com)|![](POWER.GITHUB.png)
+![](EXCEL.GITHUB.png)|![](POWER.GITHUB.png)
+
+## MODELLING
+No specific modelling was used as the dataset had only one table.
+
+## ANALYSIS AND VISUALISATION
+**DANANALYTICS** discovered that 
+1. Average salary = 115,000.00
+2. Total number of staff = 6701
+3. Average year of Experience per department = 3 years
+4. other relevant data driven insight into their salary pattern revealed that
+
+- 14 staff does not identify as either male or female
+- there are 191 jobs available in the company.
+ 
+ check below for the dashboard picture.
+ ![](SALARY.GITHUB.png)
+
+## Conclusion/Recommendation.
+
+To get the best of this visualisation, i will recommend you interact with the dashboard as a lot of insights lie there in.
+
+**THANK YOU** 🙂
 
 
 
